@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random quote generator",
+      "description": "An app that generates a random quote after set amount of time.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://ozarkstudios.com/techdegree/techdegree-project-1",
+      "github_link": "https://github.com/thehiven/techdegree-project-1",
+      "image_urls": ["randomquotes/Screenshot_1.png", "randomquotes/Screenshot_2.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "Phrase Hunter",
+      "description": "Word guessing game",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://ozarkstudios.com/techdegree/techdegree-project-4",
+      "github_link": "https://github.com/thehiven/techdegree-project-4",
+      "image_urls": ["phrasehunter/Screenshot_1.png", "phrasehunter/Screenshot_2.png", "phrasehunter/Screenshot_3.png", "phrasehunter/Screenshot_4.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Registration Form",
+      "description": "Interactive form built using JQuery. Form works even without using JS - Progressive Enhancement.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://ozarkstudios.com/techdegree/techdegree-project-3/",
+      "github_link": "https://github.com/thehiven/techdegree-project-3",
+      "image_urls": ["regform/Screenshot_1.png", "regform/Screenshot_2.png", "regform/Screenshot_4.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "Pagination and Filtering",
+      "description": "An app that dynamically creates pagination and filters a list of students by name.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://ozarkstudios.com/techdegree/techdegree-project-2/",
+      "github_link": "https://github.com/thehiven/techdegree-project-2",
+      "image_urls": ["paginandfiltering/Screenshot_1.png", "paginandfiltering/Screenshot_2.png", "paginandfiltering/Screenshot_3.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "Awesome startup employee directory",
+      "description": "An app that shows employees and their info in a startup and filters them by name.",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "live_link": "https://ozarkstudios.com/techdegree/techdegree-project-5/",
+      "github_link": "https://github.com/thehiven/techdegree-project-5",
+      "image_urls": ["employees/Screenshot_1.png", "employees/Screenshot_2.png", "employees/Screenshot_3.png"]
+    }
+  ]
+}

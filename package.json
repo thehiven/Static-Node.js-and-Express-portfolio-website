@@ -1,0 +1,24 @@
+{
+  "name": "techdegree-project-6",
+  "version": "1.0.0",
+  "description": "Static Node.js and Express Site",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thehiven/techdegree-project-6.git"
+  },
+  "author": "Vlad Nadtoka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thehiven/techdegree-project-6/issues"
+  },
+  "homepage": "https://github.com/thehiven/techdegree-project-6#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
+}
