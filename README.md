@@ -1,8 +1,6 @@
-# techdegree-project-6
-Static Node.js and Express Site
+# Static Node.js and Express portfolio website
+This website uses Express and json to display some of the projects that I've built.
+You can use it for your portfolio if you want.
+To display your projects simply replace data in **data.json**
 
-#### Changes in css
-  - Changed headings font to 'Montserrat'
-  - Added border-radius transition, animation and box-shadow to .thumbnail on hover
-  - Avatar has no animations nor box-shadow on hover
-  - Changed fon-size, font-weight and color of .text-light
+### This is not my actual portfolio!
